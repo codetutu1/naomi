@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h3{
+    color: blue;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: aliceblue;
+    width: 5%;
+}
